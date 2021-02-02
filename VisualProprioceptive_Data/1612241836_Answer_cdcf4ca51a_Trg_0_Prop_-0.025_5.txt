@@ -1,0 +1,10 @@
+cdcf4ca51a%
+Trg_0_Prop_-0.025%
+5%
+ 
+Target_Position: 0.016,0.707,0.332
+Stimulus_Position: 0.069,0.718,0.289
+RealHand_Position: 0.224,0.843,-0.054
+StartZone_Position: 0.000,0.700,-0.108
+Response: N
+Answer: Correct

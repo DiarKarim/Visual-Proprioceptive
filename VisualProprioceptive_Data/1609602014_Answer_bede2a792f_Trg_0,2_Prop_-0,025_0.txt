@@ -1,0 +1,10 @@
+bede2a792f%
+Trg_0,2_Prop_-0,025%
+0%
+ 
+Target_Position: 0,016,0,707,0,532
+Stimulus_Position: -0,273,0,737,0,410
+RealHand_Position: 0,039,0,791,-0,316
+StartZone_Position: 0,000,0,700,-0,108
+Response: T
+Answer: Equal

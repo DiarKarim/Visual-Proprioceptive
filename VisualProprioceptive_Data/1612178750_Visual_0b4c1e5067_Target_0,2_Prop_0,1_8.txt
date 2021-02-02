@@ -1,0 +1,10 @@
+0b4c1e5067%
+Target_0,2_Prop_0,1%
+8%
+Target_Position: 0,016,0,881,0,532
+Stimulus_Position: 0,016,0,881,0,632
+Head_Position: -0,130,0,946,-0,367
+Head_Rotation: 8,548,339,403,2,797
+Response: 1st
+Answer: Correct%
+Trial_Duration: 27,775%

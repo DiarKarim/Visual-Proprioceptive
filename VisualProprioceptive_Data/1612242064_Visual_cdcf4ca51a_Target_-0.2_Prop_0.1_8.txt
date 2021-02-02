@@ -1,0 +1,10 @@
+cdcf4ca51a%
+Target_-0.2_Prop_0.1%
+8%
+Target_Position: 0.016,0.881,0.132
+Stimulus_Position: 0.016,0.881,0.232
+Head_Position: -0.010,1.035,-0.223
+Head_Rotation: 35.389,356.778,356.368
+Response: 1st
+Answer: Correct%
+Trial_Duration: 21.355%
