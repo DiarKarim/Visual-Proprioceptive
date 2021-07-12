@@ -1,0 +1,10 @@
+9aed3eb614%
+Trg_0_Prop_0%
+32%
+ 
+Target_Position: 0.016,0.707,0.332
+Stimulus_Position: -0.029,0.750,0.302
+RealHand_Position: -0.023,0.672,-0.058
+StartZone_Position: 0.000,0.700,-0.108
+Response: Y
+Answer: Wrong

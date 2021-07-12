@@ -1,0 +1,10 @@
+fca490cb02%
+Target_0,2_Prop_-0,025%
+12%
+Target_Position: 0,016,0,881,0,532
+Stimulus_Position: 0,016,0,881,0,507
+Head_Position: -0,093,0,971,-0,173
+Head_Rotation: 7,282,341,218,4,288
+Response: 2nd
+Answer: Equal%
+Trial_Duration: 23,335%
