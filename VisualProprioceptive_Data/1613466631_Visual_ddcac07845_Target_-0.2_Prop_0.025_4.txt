@@ -1,0 +1,10 @@
+ddcac07845%
+Target_-0.2_Prop_0.025%
+4%
+Target_Position: 0.016,0.881,0.132
+Stimulus_Position: 0.016,0.881,0.157
+Head_Position: -0.234,1.185,-0.213
+Head_Rotation: 21.143,338.843,359.252
+Response: 1st
+Answer: Correct%
+Trial_Duration: 27.200%

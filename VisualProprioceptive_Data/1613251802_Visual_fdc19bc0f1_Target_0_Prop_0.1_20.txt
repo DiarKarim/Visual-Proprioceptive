@@ -1,0 +1,10 @@
+fdc19bc0f1%
+Target_0_Prop_0.1%
+20%
+Target_Position: 0.016,0.881,0.332
+Stimulus_Position: 0.016,0.881,0.432
+Head_Position: -0.071,1.066,-0.213
+Head_Rotation: 357.258,355.194,2.964
+Response: 1st
+Answer: Correct%
+Trial_Duration: 21.875%
