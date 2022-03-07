@@ -127,9 +127,15 @@ def SortClean(df_target_1):
     resultDF = resultDF.dropna()
 
     # Remove participants who obviously have messed about (i.e. flat response throughout all proprioceptive levels)
+<<<<<<< HEAD
 #     resultDF2 = resultDF[resultDF["P-0.1"]==0.000]
 
     return resultDF
+=======
+    resultDF2 = resultDF[resultDF["P-0.1"]==0.000]
+
+    return resultDF2
+>>>>>>> dfdb0cbfbbcdea1f487cde992cc04e6a55b1b037
 
 def getJND(dataFrame, propVals, boundaries, colored):
 
